@@ -1,3 +1,3 @@
 # github-formatting-test
 
-https://github.com/Hamlin-Li/github-formatting-test.git
+[basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
